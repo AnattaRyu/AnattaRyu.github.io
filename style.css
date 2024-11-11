@@ -194,12 +194,12 @@ nav a:hover {
 }
 
 main {
-    width: 60%;
+    width: 65%;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 10px;
     margin: 20px auto;
-    justify-items: center;
+    justify-content: center;
 }
 
 .card {
